@@ -79,7 +79,7 @@ This will start the development server and compile the project files. You should
 
 Open your web browser and navigate to http://localhost:5173 to view the website.
 
-You should see the home page of the Auth0 React project. You can now start making changes to the project and see the changes reflected in your web browser.## Contributing
+You should see the home page of the Auth0 React project. You can now start making changes to the project and see the changes reflected in your web browser.
 
 ## Contributions
 
