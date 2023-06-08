@@ -55,19 +55,18 @@ Through this project, I gained the following knowledge and skills:
 
    `git clone https://github.com/your-user-name/your-repo-name.git`
 
-Replace `your-user-name` and `your-repo-name` with your [GitHub username](poe://www.poe.com/_api/key_phrase?phrase=GitHub%20username&prompt=Tell%20me%20more%20about%20GitHub%20username.) and the name of your repository.
+   Replace `your-user-name` and `your-repo-name` with your [GitHub username](poe://www.poe.com/_api/key_phrase?phrase=GitHub%20username&prompt=Tell%20me%20more%20about%20GitHub%20username.) and the name of your repository.
 
 2. Navigate to the project directory by running the following command in your terminal or command prompt:
 
    ```cd your-repo-name```
-
-Replace `your-repo-name` with the name of your repository.
+   Replace `your-repo-name` with the name of your repository.
 
 3. Install the dependencies by running the following command in your terminal or command prompt:
 
    ```npm install```
 
-This will install all the necessary packages and dependencies required to run the project.
+   This will install all the necessary packages and dependencies required to run the project.
 
 4. Rename the .env.example file to .env and add your Auth0 credentials to the file. You can find your Auth0 credentials in the "Settings" tab of your Auth0 application dashboard.
 
@@ -75,11 +74,11 @@ This will install all the necessary packages and dependencies required to run th
 
    ```npm run dev```
 
-This will start the development server and compile the project files. You should see a message similar to `Server running at http://localhost:5173` in your terminal or command prompt.
+   This will start the development server and compile the project files. You should see a message similar to `Server running at http://localhost:5173` in your terminal or command prompt.
 
-Open your web browser and navigate to http://localhost:5173 to view the website.
+   Open your web browser and navigate to http://localhost:5173 to view the website.
 
-You should see the home page of the Auth0 React project. You can now start making changes to the project and see the changes reflected in your web browser.
+   You should see the home page of the Auth0 React project. You can now start making changes to the project and see the changes reflected in your web browser.
 
 ## Contributions
 
